@@ -4,7 +4,7 @@ COMPANY:Codtech IT solutions
 ID:CTO8FJX
 Domain:FrontEnd Development
 Duration:20 dec 2024 to 20 jan 2025
-Mentor:Muzammil Ahmed
+Mentor:NEELA SANTHOSH
 
 Project Title: Interactive Quiz Application
 
